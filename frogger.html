@@ -358,7 +358,7 @@ document.addEventListener('keydown', function(e) {
     frogger.y += grid;
   }
 
-  // clamp frogger position to say on screen
+  // clamp frogger position to stay on screen
   frogger.x = Math.min( Math.max(0, frogger.x), canvas.width - grid);
   frogger.y = Math.min( Math.max(grid, frogger.y), canvas.height - grid * 2);
 });
