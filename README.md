@@ -2,6 +2,8 @@
 
 This is a basic implementation of the Konami Frogger game, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/2433219/94888057-2aa27600-0435-11eb-8847-a523d981ee16.png">
+
 ## Further Exploration
 
 - Lives
