@@ -15,7 +15,7 @@ This is a basic implementation of the Konami Frogger game, but it's missing a fe
   - Each time Frogger makes it to the end bank it should score points according to a few factors (see https://en.wikipedia.org/wiki/Frogger#Scoring). Use [context.fillText()](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillText) to display the score to the screen
   - Every 20,000 should award another life
 - Mobile and touchscreen support
-  - Allow the game to be scalled down to a phone size. See https://codepen.io/straker/pen/VazMaL
+  - Allow the game to be scaled down to a phone size. See https://codepen.io/straker/pen/VazMaL
   - Support [touch controls](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
   
 **Important note:** I will answer questions about the code but will not add more features or answer questions about adding more features. This series is meant to give a basic outline of the game but nothing more.
@@ -31,6 +31,7 @@ This is a basic implementation of the Konami Frogger game, but it's missing a fe
 - [Breakout](https://gist.github.com/straker/98a2aed6a7686d26c04810f08bfaf66b)
 - [Tetris](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1)
 - [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
+- [Missile Command](https://gist.github.com/straker/afc4e2a30b6df772a5f9f6ef01751d41)
 
 ## Support
 
