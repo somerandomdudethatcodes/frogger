@@ -32,6 +32,7 @@ This is a basic implementation of the Konami Frogger game, but it's missing a fe
 - [Tetris](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1)
 - [Bomberman](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
 - [Missile Command](https://gist.github.com/straker/afc4e2a30b6df772a5f9f6ef01751d41)
+- [Sokoban](https://gist.github.com/straker/2fddb507d4bb6bec54ea2fdb022d020c)
 
 ## Support
 
