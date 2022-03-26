@@ -41,5 +41,5 @@ Basic HTML Games are made possible by users like you. When you become a [Patron]
 
 ### Top Patrons
 
-- Innkeeper Games
 - Karar Al-Remahy
+- UnbrandedTech
