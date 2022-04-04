@@ -1,4 +1,4 @@
-# Basic Frogger HTML Game
+# Basic Frogger HTML and JavaScript Game
 
 This is a basic implementation of the Konami Frogger game, but it's missing a few things intentionally and they're left as further exploration for the reader.
 
