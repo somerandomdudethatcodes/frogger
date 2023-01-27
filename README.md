@@ -45,3 +45,4 @@ Basic HTML Games are made possible by users like you. When you become a [Patron]
 
 - Karar Al-Remahy
 - UnbrandedTech
+- Innkeeper Games
