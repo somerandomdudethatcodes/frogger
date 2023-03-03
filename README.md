@@ -36,6 +36,7 @@ This is a basic implementation of the Konami Frogger game, but it's missing a fe
 - [Doodle Jump](https://gist.github.com/straker/b96a4a68bd6d79cf75a833d98a2b654f)
 - [Puzzle Bobble](https://gist.github.com/straker/afc5bedc7f4b4bc65ba8b05c435f6d32)
 - [Helicopter](https://gist.github.com/straker/0d25ae9d235f6a62f8287fd36a097043)
+- [Block Dude](https://gist.github.com/straker/df855f22e57576c80d6126aa5609654e)
 
 ## Support
 
